@@ -1,5 +1,5 @@
 === Customizer Everywhere ===
-Contributors:      X-team, westonruter
+Contributors:      xwp, westonruter
 Tags:              customizer, preview, widget-customizer, admin-bar
 Requires at least: 3.6
 Tested up to:      3.8
